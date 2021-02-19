@@ -13,8 +13,7 @@ mensagens = {"Jowgabs#9263": "Joaozinho, o rei, chegou! Vassalos comecem as reve
              "fleonemaia#0442": "Vovo ta cansado, ne fio :older_man: :older_man: "}
 
 
-token = 'ODEyMDg2OTI1MTcwOTY2NTM4.YC7o4g.5xYquhZH1PdCIKjSf9gFiv-yjSo'
-
+token
 async def apagaMsg(message):
     for i in range(6):
         if str(message.channel) == "geral" and (message.content == "Caiu na maracutaia do bot de spam OTARIO"
