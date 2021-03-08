@@ -26,7 +26,7 @@ mensagens = {"Jowgabs#9263": "Joaozinho, o rei, chegou! <:BUU:749808231957659669
              "Esguicho4#8105": "Vai fazer gol com o corsinha "}
 
 
-token ='ODEyMDg2OTI1MTcwOTY2NTM4.YC7o4g.5xYquhZH1PdCIKjSf9gFiv-yjSo'
+token =''
 
 
 def is_spam(m):
@@ -92,4 +92,4 @@ async def on_member_join(member):
 
 
 #keep_alive()
-client.run('ODE0MjE2NzIxMzc5ODg1MTM2.YDaoaQ.H3DcB_2LygQWBEJUzQehVoW96EM')
+client.run('')
