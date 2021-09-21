@@ -1,4 +1,4 @@
-Bot para o discord feito em Python por Joao Gabriel de Barros Rocha utilizando a biblioteca discordpy
+Bot para o discord feito em Python utilizando a biblioteca discordpy
 
 
 main.py - Codigo do bot
